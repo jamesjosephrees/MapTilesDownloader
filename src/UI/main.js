@@ -39,6 +39,10 @@ $(function() {
 
 		"Carto Light": "http://cartodb-basemaps-c.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
 		"Stamen Toner B&W": "http://a.tile.stamen.com/toner/{z}/{x}/{y}.png",
+		
+		"div-5": "",
+
+		"NSW Imagery": "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Imagery/MapServer/tile/{z}/{y}/{x}",
 
 	};
 
